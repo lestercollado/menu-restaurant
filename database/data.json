@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Magenta kitchen",
+    "description": "Since 1990, Magenta Kitchen has prided itself on being one of the best restaurants, a testament to its enduring legacy of excellence. Situated in the heart of California's culinary capital, Magenta Kitchen has become a beloved institution, cherished by locals and revered by food enthusiasts from around the globe.",
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "California",
+      "postalCode": "12345",
+      "country": "United States"
+    },
+    "sections": [
+      {
+        "name": "Picaderas",
+        "description": "Deliciosas opciones para compartir con amigos y familiares. ¡Sabores que te sorprenderán en cada bocado!",
+        "items": [
+          {
+            "id": "0",
+            "name": "Papas fritas",
+            "ingredients": "Potatoes, peanut oil, sea salt, fresh herbs, garlick cloves, parmesan cheese, black pepper.",
+            "description": "French fries are incredibly versatile and are often enjoyed with burgers, sandwiches, or as a standalone snack. Their simplicity allows for a wide array of flavor variations, making them a popular and comforting treat across diverse cuisines and dining experiences.",
+            "prices": 300,
+            "imageUrl": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "bestSeller": true
+          }
+        ]
+      },
+      {
+        "name": "Pizzas",
+        "description": "Tu rica Pizza Cubana con la esencia de Italia",
+        "items": [
+          {
+            "id": "0",
+            "name": "Napolitana",
+            "ingredients": "Potatoes, peanut oil, sea salt, fresh herbs, garlick cloves, parmesan cheese, black pepper.",
+            "description": "French fries are incredibly versatile and are often enjoyed with burgers, sandwiches, or as a standalone snack. Their simplicity allows for a wide array of flavor variations, making them a popular and comforting treat across diverse cuisines and dining experiences.",
+            "prices": 200,
+            "imageUrl": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "bestSeller": true
+          }
+        ]
+      }
+    ]
+  }
+]
