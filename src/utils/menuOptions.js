@@ -21,9 +21,9 @@ export const menuOptions = [
     label: <a href="#pizzas">Pizzas</a>,
   },
   {
-    key: "main dishes",
+    key: "sandwiches",
     icon: <IconMeat size={32} />,
-    label: <a href="#main dishes">Main dishes</a>,
+    label: <a href="#sandwiches">Sandwiches</a>,
   },
   {
     key: "beverages",

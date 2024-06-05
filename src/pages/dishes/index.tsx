@@ -65,10 +65,6 @@ const Dishes = (props: IDishes) => {
                 {section?.name}
               </Title>
 
-              <Paragraph className="section" style={{ fontSize: "16px" }}>
-                {section.description}
-              </Paragraph>
-
               <span className={styles.cardsContainer}>
                 {section?.items.map((item) => (
                   <PlateCard key={item.id} {...item} />

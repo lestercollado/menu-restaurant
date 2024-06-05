@@ -12,30 +12,51 @@
     "sections": [
       {
         "name": "Picaderas",
-        "description": "Deliciosas opciones para compartir con amigos y familiares. ¡Sabores que te sorprenderán en cada bocado!",
         "items": [
           {
             "id": "0",
             "name": "Papas fritas",
-            "ingredients": "Potatoes, peanut oil, sea salt, fresh herbs, garlick cloves, parmesan cheese, black pepper.",
-            "description": "French fries are incredibly versatile and are often enjoyed with burgers, sandwiches, or as a standalone snack. Their simplicity allows for a wide array of flavor variations, making them a popular and comforting treat across diverse cuisines and dining experiences.",
             "prices": 300,
-            "imageUrl": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "bestSeller": true
+          },
+          {
+            "id": "1",
+            "name": "Bolitas de queso",
+            "prices": 410,
+            "bestSeller": true
+          },
+          {
+            "id": "2",
+            "name": "Croquetas",
+            "prices": 480,
+            "bestSeller": true
+          },
+          {
+            "id": "3",
+            "name": "Jamón Serrano",
+            "prices": 700,
             "bestSeller": true
           }
         ]
       },
       {
         "name": "Pizzas",
-        "description": "Tu rica Pizza Cubana con la esencia de Italia",
         "items": [
           {
             "id": "0",
             "name": "Napolitana",
-            "ingredients": "Potatoes, peanut oil, sea salt, fresh herbs, garlick cloves, parmesan cheese, black pepper.",
-            "description": "French fries are incredibly versatile and are often enjoyed with burgers, sandwiches, or as a standalone snack. Their simplicity allows for a wide array of flavor variations, making them a popular and comforting treat across diverse cuisines and dining experiences.",
             "prices": 200,
-            "imageUrl": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "bestSeller": false
+          }
+        ]
+      },
+      {
+        "name": "Sandwiches",
+        "items": [
+          {
+            "id": "0",
+            "name": "Jamón y Queso",
+            "prices": 540,
             "bestSeller": true
           }
         ]
